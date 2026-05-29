@@ -205,7 +205,7 @@ def get_email():
             return email
         print("Invalid Email Format. Try again.")
 
-
+ 
 def get_education():
     entries = []
     while True:
