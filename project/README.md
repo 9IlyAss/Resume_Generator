@@ -1,6 +1,6 @@
 # Resume_Generator
 
-#### Video Demo: <URL HERE>
+#### Video Demo: [<URL HERE>](https://www.youtube.com/watch?v=nn_tgibN0NI)
 
 #### Description:
 Resume Generator is a Python application that creates a professional one-page resume in PDF format using the FPDF library. The program collects user information such as personal details, education, experience, and skills through the terminal, then automatically generates a clean and organized resume.
