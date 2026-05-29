@@ -1,6 +1,6 @@
 # Resume_Generator
 
-#### Video Demo:     [<URL HERE>](https://www.youtube.com/watch?v=nn_tgibN0NI)
+#### Video Demo:          [ Video ](https://www.youtube.com/watch?v=nn_tgibN0NI)
 
 
 #### Description:
